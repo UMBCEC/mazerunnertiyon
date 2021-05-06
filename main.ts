@@ -1,0 +1,5 @@
+let MazeRunnerTiyon = sprites.create(assets.image`MazerunnerTiyon`, SpriteKind.Player)
+controller.moveSprite(MazeRunnerTiyon)
+tiles.setTilemap(tilemap`level1`)
+scene.cameraFollowSprite(MazeRunnerTiyon)
+tiles.placeOnRandomTile(MazeRunnerTiyon, sprites.dungeon.greenInnerNorthEast)

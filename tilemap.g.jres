@@ -1,0 +1,30 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAACwu7u7uwsAALAAAAAACwAAsLAAAAALAACwsAAAAAAAALCwu7u7CwAAsLAAAAALAACwAAAAAAsAALC7u7sLCwAAsAAACwALAACwAAALAAsAALAAAAsACwAAsAAACwALALu7u7u7CwsAAAAAAAAACwALAAAAAAALAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "myTile"
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAyMDEwMTAxMDIwMTAxMDEwMjAxMDEwMjAzMDEwMTAxMDIwMTAxMDEwMjAxMDEwMTAyMDEwMTAyMDEwMTAxMDEwMjAxMDEwMTAyMDEwMTAxMDIwMTAxMDIwMTAxMDEwMTAyMDEwMTAxMDIwMTAxMDEwMjAxMDEwMjAxMDEwMTAxMDIwMTAxMDEwMjAxMDEwMTAyMDEwMTAyMDEwMTAxMDEwMjAxMDEwMTAyMDEwMTAyMDIwMTAxMDIwMTAxMDEwMTAyMDEwMTAxMDIwMTAxMDEwMTAxMDEwMjAxMDEwMTAxMDIwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAyMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAyMDEwMTAxMDIwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMjAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMjAyMDIwMjAyMDEwMjAyMDIwMjAyMDIwMjAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMjIyMjIyMjIyMjIyMjIyMjAyMDIwMDAyMDAwMjIwMjAwMjAyMDAwMjAwMDIyMDIwMDIwMjAwMDIwMDAyMjAyMDAyMDIwMDAyMDAwMjIwMjAwMjAyMDAwMjAwMDIyMDIwMDIwMjAwMDIyMDAyMjAyMDAyMDIwMDAyMDAwMDIwMjAwMjAyMDAyMjIyMjIyMjIwMDIwMjAwMDIwMDAwMDAyMDAyMDIwMDAyMDAwMDAwMjAwMjAwMDAwMjAwMDAwMDIwMDIyMjIyMDIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.dungeon.greenOuterNorth1",
+            "sprites.dungeon.greenInnerNorthEast"
+        ],
+        "displayName": "level1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
